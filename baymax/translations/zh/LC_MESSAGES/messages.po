@@ -10,4 +10,5 @@ msgstr "Flask Bone"
 # use {{ _("home") }} in templates.
 # or _("Home") in python codes.
 msgid "Home"
+# 首页 -> first page
 msgstr "首页"
